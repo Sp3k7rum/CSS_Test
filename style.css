@@ -1,0 +1,44 @@
+	h1{
+		color:pink;
+	}
+	body{
+		background-color:#333;
+		color:#555555;
+		font-family:Arial;
+		line-height:1.9em
+	}
+	p{
+		color:rgb(255,40,150);
+		font-size:25px;
+	}
+	#ohmygod{
+		color:rgb(255,0,150);
+	}
+	.box-1{
+		background-color:#333333;
+		border-right:50px pink outset;
+		border-top:50px pink outset;
+		border-bottom:50px pink outset;
+		border-left:50px pink outset; 
+		border-radius:12px;
+	}
+	.box-2{
+		padding: 10px;
+		background-color:pink;
+		border-radius:8px;
+		border-style: outset;
+	}
+	.BFB{
+		background-color:pink;
+		color:#333;
+		border:none;
+		text-align:center;
+		font-size:16px;
+		padding:20px 28px;
+		border-radius: 9px;
+		border-style:outset;
+		float:center;
+		}
+	.chckn_nggts{
+		text-align:center;
+	}
